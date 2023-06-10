@@ -1,2 +1,2 @@
 # Ampullaszortírozó
-A program az Ipari irányítástechnika első házifeladatának megvalósítása.
+A program az 5. féléves Ipari irányítástechnika első házifeladatának megvalósítása.
